@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "module": "es2020",
+    "esModuleInterop": true,
+    "strict": true,
+    "target": "es2019",
+    "moduleResolution": "node",
+    "outDir": "build",
+    "rootDir": "src",
+    "typeRoots": [
+      "./node_modules/@types"
+    ]
+  },
+  "include": ["src/**/*"]
+}
