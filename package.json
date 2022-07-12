@@ -3,7 +3,7 @@
   "type": "module",
   "version": "1.0.0",
   "scripts": {
-    "build": "tsc --watch",
+    "build": "tsc",
     "start": "node build/main.js"
   },
   "devDependencies": {
