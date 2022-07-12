@@ -9,7 +9,8 @@
     "outDir": "build",
     "rootDir": "src",
     "typeRoots": [
-      "./node_modules/@types"
+      "./node_modules/@types",
+      "./ts-declarations"
     ]
   },
   "include": ["src/**/*"]
